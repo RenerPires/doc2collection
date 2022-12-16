@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RenerPires/temp-api-doc2collection.git"
+    "url": "git+https://github.com/RenerPires/doc2collection.git"
   },
   "keywords": [
     "swagger",
@@ -47,7 +47,7 @@
     "converter"
   ],
   "bugs": {
-    "url": "https://github.com/RenerPires/temp-api-doc2collection/issues"
+    "url": "https://github.com/RenerPires/doc2collection/issues"
   },
-  "homepage": "https://github.com/RenerPires/temp-api-doc2collection#readme"
+  "homepage": "https://github.com/RenerPires/doc2collection#readme"
 }
